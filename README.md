@@ -1,3 +1,21 @@
+# 上海创芯学院版 Typora LaTeX 课程报告模板
+
+本 fork 在 [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) 的基础上增加上海创芯学院课程报告模板。上游主题、安装方式及其他学校的原始模板均予以保留。
+
+- [创芯学院模板与使用说明](./resources/sisi/README.md)
+- [完整报告模板](./resources/sisi/report-template.md) · [独立封面](./resources/sisi/cover-template.md)
+- [样例 PDF](./resources/sisi/report-template.pdf)
+
+新增学院官网矢量标识、单色封面和视觉居中调整；默认课程为“科学计算”，正文不包含摘要。全部个人信息使用占位文字，适合复制后填写。
+
+![创芯学院封面](./resources/sisi/preview.png)
+
+模板代码沿用 GPL-3.0。学院名称和标识的来源及权利说明见 [SOURCES.md](./resources/sisi/assets/SOURCES.md)。
+
+---
+
+以下为上游项目原始说明。
+
 ![cover](https://raw.githubusercontent.com/Keldos-Li/pictures/main/typora-latex-theme/cover.png)
 # Typora 伪装 LaTeX 中文样式主题
 
