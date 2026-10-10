@@ -52,3 +52,7 @@
 
 如果您常用的包管理器不在列表里，希望您能在 issue 中进行报告。  
 
+
+## 上海创芯学院模板
+
+本 fork 的构建产物会自动包含 `resources/sisi/`。安装 `Latex` 主题后，参阅 [学院模板说明](../resources/sisi/README.md)，并完整复制模板目录及其 `assets/`。
